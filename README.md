@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Problem Statements Addressed
+##  Problem Statements Addressed
 * **Yield Uncertainty:** High unpredictability in crop yield outcomes.
 * **Lack of Guidance:** Absence of data-driven insights for irrigation, fertilization, and pest control.
 * **Low Productivity:** Stagnant growth and output among small-scale farming communities.
@@ -14,7 +14,7 @@
 
 ---
 
-## 💡 Idea / Solution
+##  Idea / Solution
 * **Personalized Farm Plans:** Utilizes satellite imagery, soil metrics (e.g., nitrogen levels), and historical data to generate tailored agricultural strategies.
 * **Instant Photo Diagnostics:** Image recognition capabilities that instantly identify crop pests and diseases from a smartphone photo.
 * **Smart Resource Management:** Precise actionable insights on irrigation volumes, fertilization needs, and pesticide application.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Problem Resolution
+##  Problem Resolution
 * **Minimizes Crop Loss:** Facilitates timely containment of threats through early and accurate disease identification.
 * **Boosts Profitability:** Eliminates overhead by optimizing the distribution of expensive inputs like fertilizers and water.
 * **Democratizes Agri-Tech:** Bridges the knowledge asymmetry gap by offering institutional-grade insights directly to smallholder fields.
@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Unique Value Propositions (UVP)
+##  Unique Value Propositions (UVP)
 * **Hyper-Personalized Advice:** Rejects generic guidance in favor of hyper-local recommendations calibrated to individual farm data.
 * **Instant Visual Diagnostics:** Accessible expert-level problem solving via a single image upload.
 * **All-in-One Farming Co-pilot:** Consolidates multi-source diagnostics, resource distribution, and climate monitoring into a unified application.
@@ -42,6 +42,6 @@
 
 ---
 
-## 🛠️ Technology Stack & Core Category
+##  Technology Stack & Core Category
 * **Primary Domain:** AI/ML, Cloud Computing, Blockchain
 * **Core Mechanisms:** Computer Vision (CNNs for pest detection), Predictive Analytics (ML regression models for yield estimation), and Natural Language Processing (Speech-to-Text translation engines).
